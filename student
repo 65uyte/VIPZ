@@ -1,7 +1,8 @@
-echo "# VIPZ" >> README.md 
-git init 
-git add README.md 
-git commit -m "first commit" 
-git branch -M main 
-git remote add origin https://github.com/65uyte/VIPZ.git
- git push - ты главный
+print('Встала весна, чорну землю')
+print('Сонну розбудила,')
+print('Уквітчала її рястом,')
+print('Барвінком укрила;')
+print('І на полі жайворонок,')
+print('Соловейко в гаї')
+print('Землю, убрану весною,')
+print('Вранці зустрічають…')
